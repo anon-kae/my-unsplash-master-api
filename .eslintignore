@@ -1,0 +1,6 @@
+/public
+commitlintrc.json
+package.json
+/src/configs/__mocks__
+/src/models/__mocks__
+
